@@ -1,0 +1,10 @@
+{
+  "name": "datatable.plus",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "./dist/datatable.plus.js",
+  "ignore": [],
+  "dependencies": {
+	"datatable.net": "~1.10.11"
+  }
+}
