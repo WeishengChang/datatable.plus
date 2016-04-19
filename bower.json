@@ -5,6 +5,6 @@
   "main": "./dist/datatable.plus.js",
   "ignore": [],
   "dependencies": {
-	"datatable.net": "~1.10.11"
+	"datatables.net": "~1.10.11"
   }
 }
