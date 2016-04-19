@@ -127,7 +127,7 @@
 			$(document).ready(function () {
 				$table.find('tfoot th').each(function (i, v) {
 					var title = $(this).text();
-					$(this).html('<input type="text" placeholder="Search ' + title + '" class="footer-search" data-order="' + i + '" />');
+					$(this).html('<input type="text" placeholder="搜尋 ' + title + '" class="footer-search" data-order="' + i + '" />');
 				});
 				$table.off('init.dt').on('init.dt', function (e) {
 					var that = $(this).DataTable();
