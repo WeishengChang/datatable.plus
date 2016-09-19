@@ -1,4 +1,4 @@
-/**
+/** - im master
  * DataTable Chart Button
  * display chart html content in modal dialog
  * @depends Bootstrap.modal
